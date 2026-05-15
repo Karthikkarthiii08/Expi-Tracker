@@ -30,5 +30,23 @@ A modern, full-featured personal finance tracker built with React + Tailwind CSS
 | React Hot Toast | Toast notifications |
 | Vite | Build tool |
 
+
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repo
+git clone https://github.com/Karthikkarthiii08/Expi-Tracker.git
+
+# Navigate into the project
+cd Expi-Tracker
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npm run dev
+
+
 ## 📁 Project Structure
 
