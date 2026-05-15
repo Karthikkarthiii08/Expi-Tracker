@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Junk browser-saved folders
+src/assets/logo_files/
+dist/
